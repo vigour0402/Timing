@@ -1,0 +1,16 @@
+nsf:
+  type: springboot2.1
+  version: '2.0'
+  nsfServer: 'http://nsf-server.v190808.163skiff.com'
+  application:
+    name: stock-provider
+    version: 0.0.2
+    projectCode: wangbicheng
+  authority:
+    accessKey: 081a63b82cb84dd481e689dbecbcba35
+    secretKey: 0a2f237e2ab44c84b50435db6164bdd4
+  manager:
+    patterns: []
+  relations:
+    services: []
+    versions: []
